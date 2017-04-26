@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(278): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(291): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(295): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(302): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(304): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(326): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(342): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(364): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(376): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(378): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(390): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\journey\documents\visual studio 2015\projects\pairwisesequencealignment_using_dp\pairwisesequencealignment_using_dp\PSA_DP.h(392): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 688 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  PairwiseSequenceAlignment_using_DP.vcxproj -> C:\Users\Journey\documents\visual studio 2015\Projects\PairwiseSequenceAlignment_using_DP\Release\PairwiseSequenceAlignment_using_DP.exe
+  PairwiseSequenceAlignment_using_DP.vcxproj -> C:\Users\Journey\documents\visual studio 2015\Projects\PairwiseSequenceAlignment_using_DP\Release\PairwiseSequenceAlignment_using_DP.pdb (Full PDB)
